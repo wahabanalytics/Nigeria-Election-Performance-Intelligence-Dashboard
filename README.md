@@ -440,7 +440,7 @@ The dashboard was designed as a polished analytical interface rather than a long
 ---
 
 # 📁 Project Structure
-```text
+
 
 Nigeria-Election-Performance-Intelligence-Dashboard/
 │
@@ -463,6 +463,7 @@ Nigeria-Election-Performance-Intelligence-Dashboard/
 │   └── About Project.png
 │
 └── README.md
+
 
 # 🚀 How to Use the Dashboard
 
