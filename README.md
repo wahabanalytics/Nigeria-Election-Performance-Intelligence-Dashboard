@@ -8,7 +8,34 @@ The dashboard transforms election data into meaningful insights, allowing users 
 
 The project was developed using **Microsoft Excel and VBA**, combining advanced Excel analytics with automation to create a fully interactive multi-page dashboard.
 
-> ⚠️ **Disclaimer:** The dataset used in this project is synthetic and was created strictly for analytical and portfolio purposes. Any candidates, winners, parties, or election results displayed should not be interpreted as official historical Nigerian election records.
+> ⚠️ **Disclaimer:** The dataset used in this project is synthetic and was created strictly for learning and portfolio purposes. Any candidates, winners, parties, or election results displayed should not be interpreted as official historical Nigerian election records.
+
+---
+
+# 🖥️ Dashboard Preview
+
+Below is a preview of the Nigeria Election Performance Intelligence Dashboard.
+
+<!-- Add your best Executive Overview screenshot here -->
+
+<img width="1418" height="697" alt="image" src="https://github.com/user-attachments/assets/8c4d6405-4840-42e4-bf9a-5dfbd178493f" />
+
+
+---
+
+# ✨ Key Highlights
+
+- 📊 Interactive multi-page Excel dashboard
+- 🗳️ Analysis across multiple election years and election types
+- 📍 State and LGA-level election analysis
+- 🗺️ Interactive geographical visualization
+- 🎛️ VBA-powered Combo Box filtering system
+- 🔗 Dependent State → LGA filtering
+- 🖼️ Dynamic winner cards and winner images
+- ⚡ Optimized LGA filtering for faster response
+- 🧠 Dynamic Executive Insights
+- 🧭 Interactive multi-page dashboard navigation
+- 📈 KPI-driven election performance analysis
 
 ---
 
@@ -49,9 +76,9 @@ The major objectives of this project were to:
 
 # 🛠️ Tools & Technologies Used
 
-### 📊 Microsoft Excel
+## 📊 Microsoft Excel
 
-Excel was used for:
+Microsoft Excel was used for:
 
 - Data Cleaning
 - Data Transformation
@@ -63,7 +90,7 @@ Excel was used for:
 - Form Control Combo Boxes
 - Dashboard Design
 
-### ⚙️ VBA (Visual Basic for Applications)
+## ⚙️ VBA (Visual Basic for Applications)
 
 VBA was used to:
 
@@ -118,14 +145,16 @@ The dataset includes information such as:
 
 ## 🏠 Cover Page
 
-The entry point into the dashboard, providing navigation into the analytical pages.
-<img width="1600" height="614" alt="image" src="https://github.com/user-attachments/assets/103c38c5-de15-4b1a-a247-c649613e1f5c" />
+The Cover Page serves as the entry point into the dashboard and provides navigation to the analytical dashboard pages.
+
+<img width="1418" height="697" alt="image" src="https://github.com/user-attachments/assets/daa52741-646c-4a38-a58e-f415eee12602" />
+
 
 ---
 
 ## 📊 Executive Overview
 
-Provides a high-level summary of election performance.
+The Executive Overview provides a high-level summary of election performance and key election metrics.
 
 ### Key KPIs
 
@@ -138,91 +167,112 @@ Provides a high-level summary of election performance.
 
 ### Key Features
 
-- Executive Insights
+- Dynamic Executive Insights
 - Election performance trends
 - State-level geographical visualization
 - Dynamic Presidential Winner Card
 - Interactive filtering
-<img width="1418" height="697" alt="image" src="https://github.com/user-attachments/assets/f532694c-5050-420e-ba19-390cde37047d" />
+
+<img width="1600" height="614" alt="image" src="https://github.com/user-attachments/assets/5bbefdf8-fe24-49c7-9450-c1f687ed97df" />
+
 
 ---
 
 ## 📈 Election Analysis
 
-Provides deeper analysis of election performance across:
+The Election Analysis page provides deeper analysis of election performance across different election categories.
+
+Users can analyze:
 
 - Election Years
 - Election Types
-- Candidates
-- Political Parties
-<img width="1410" height="697" alt="image" src="https://github.com/user-attachments/assets/8ac57aa7-c587-4f7e-b5f3-283e5d31adb7" />
+- Voter Participation
+- Election Performance Trends
+- Comparative Election Metrics
+
+<img width="1410" height="697" alt="image" src="https://github.com/user-attachments/assets/63d28c66-fac8-456a-adcc-f51317dfec3e" />
+
 
 ---
 
 ## 🗺️ State & LGA Analysis
 
-Provides geographical analysis of election performance at:
-
-- State Level
-- Local Government Area Level
+The State & LGA Analysis page provides geographical analysis of election performance at both State and Local Government Area levels.
 
 ### Key Features
 
-- State-level analysis
-- LGA-level analysis
+- State-level election analysis
+- LGA-level election analysis
 - State vs National Turnout comparison
 - Dynamic Winner Analysis
 - Dependent State → LGA filtering
-<img width="1424" height="696" alt="image" src="https://github.com/user-attachments/assets/5f5281c0-2148-4e08-bccc-19ec3a0a3c2d" />
+
+<img width="1488" height="692" alt="image" src="https://github.com/user-attachments/assets/7117a390-54b3-4aa3-97e3-4864105df328" />
+
 
 ---
 
 ## 👤 Candidate Analysis
 
-Provides insights into:
+The Candidate Analysis page provides insights into candidate performance across election categories.
 
-- Candidate performance
-- Candidate votes
-- Candidate vote share
-- Candidate rankings
-<img width="1488" height="692" alt="image" src="https://github.com/user-attachments/assets/68ebca70-7b14-4905-b543-505c999b216b" />
+Users can analyze:
+
+- Candidate Votes
+- Candidate Vote Share
+- Candidate Rankings
+- Comparative Candidate Performance
+
+<img width="1424" height="696" alt="image" src="https://github.com/user-attachments/assets/c4b59e18-afc1-4ec0-a4bf-4e3726844a97" />
+
 
 ---
 
 ## 🚩 Party Analysis
 
-Provides insights into:
+The Party Analysis page provides insights into political party performance.
 
-- Party performance
-- Party vote share
-- Party rankings
-- Winning party performance
-<img width="1451" height="689" alt="image" src="https://github.com/user-attachments/assets/84572795-dfb8-44b8-b352-9175deb06c59" />
+Users can analyze:
+
+- Party Performance
+- Party Vote Share
+- Party Rankings
+- Winning Party Performance
+
+<img width="1451" height="689" alt="image" src="https://github.com/user-attachments/assets/0c50800a-69f1-4719-9f6e-06178d8a5fcb" />
+
 
 ---
 
 ## 📖 Data Dictionary
 
-Provides explanations for important dataset fields and metrics.
-<img width="1600" height="668" alt="image" src="https://github.com/user-attachments/assets/ecb8c624-21b6-413e-bf49-305ac26c9385" />
+The Data Dictionary provides explanations and definitions for important dataset fields and election metrics used throughout the dashboard.
+
+<img width="1600" height="623" alt="image" src="https://github.com/user-attachments/assets/bf325007-1097-4f34-bc53-2a8bf9806c7a" />
+
 
 ---
 
 ## ℹ️ About Project
 
-Provides information about:
+The About Project page provides information about:
 
-- Project purpose
-- Dataset coverage
-- Dashboard functionality
-- Navigation instructions
-<img width="1600" height="623" alt="image" src="https://github.com/user-attachments/assets/f1a3740c-07eb-4f61-871f-f38ffe27e395" />
+- Project Purpose
+- Dataset Coverage
+- Dashboard Functionality
+- Navigation Instructions
+- Project Background
+
+<img width="1600" height="668" alt="image" src="https://github.com/user-attachments/assets/02d63330-3c3b-4f34-8bad-df3807aa6fb5" />
+
 
 ---
 
-# 🎛️ Interactive Filtering System
+# ⚡ Key Interactive Features
 
-The dashboard uses six major filters:
+## 🎛️ Interactive Filtering System
+
+The dashboard uses six major interactive filters:
 
 - 📅 Election Year
 - 🗳️ Election Type
@@ -237,7 +287,7 @@ This creates a cleaner dashboard interface while maintaining powerful interactiv
 
 ---
 
-# 🔗 Dependent State → LGA Filtering
+## 🔗 Dependent State → LGA Filtering
 
 One of the key interactive features implemented in this project is dependent filtering.
 
@@ -247,7 +297,55 @@ This improves usability and prevents invalid geographical selections.
 
 ---
 
-# ⚡ Performance Optimization
+## 🖼️ Dynamic Winner Cards
+
+The dashboard includes dynamic Winner Cards that display relevant election information based on selected filters.
+
+The cards provide information such as:
+
+- Winner
+- Winning Party
+- Winning Votes
+- Vote Share
+- Winning Margin
+- Dynamic Winner Images
+
+VBA automation was used to dynamically update winner images while preserving the user's current dashboard page.
+
+---
+
+## 🧠 Dynamic Executive Insights
+
+The Executive Overview includes automatically generated insights based on election data and user selections.
+
+The insights dynamically communicate:
+
+- Election winners
+- Voter participation
+- Highest accredited voter participation
+- Winning margins
+- Election performance trends
+
+The insight system uses:
+
+- `INDEX`
+- `MATCH`
+- `MAX`
+- `IFERROR`
+- PivotTable outputs
+- Helper Cells
+
+---
+
+## 🗺️ Geographical Analysis
+
+The dashboard includes an interactive geographical visualization of Nigeria.
+
+Users can explore how election participation varies across States using the dashboard filters.
+
+---
+
+## ⚡ Performance Optimization
 
 One of the major technical challenges encountered during development was slow LGA filtering.
 
@@ -268,109 +366,85 @@ The LGA filtering response improved significantly and became almost instantaneou
 
 ---
 
-# 🖼️ Dynamic Winner Cards
-
-The dashboard includes dynamic Winner Cards that display relevant election information based on selected filters.
-
-The cards provide information such as:
-
-- Winner
-- Winning Party
-- Winning Votes
-- Vote Share
-- Winning Margin
-- Dynamic Winner Images
-
-VBA automation was used to dynamically update winner images while preserving the user's current dashboard page.
-
----
-
-# 🧠 Dynamic Executive Insights
-
-The Executive Overview includes automatically generated insights based on election data and user selections.
-
-The insights dynamically communicate:
-
-- Election winners.
-- Voter participation.
-- Highest accredited voter participation.
-- Winning margins.
-- Election performance trends.
-
-The insight system uses:
-
-- `INDEX`
-- `MATCH`
-- `MAX`
-- `IFERROR`
-- PivotTable outputs
-- Helper Cells
-
----
-
-# 🗺️ Geographical Analysis
-
-The dashboard includes an interactive geographical visualization of Nigeria.
-
-Users can explore how election participation varies across States using the dashboard filters.
-
----
-
 # ⚠️ Technical Challenges & Solutions
 
 ## 🔴 Challenge 1: Slow LGA Filtering
 
-**Problem:**  
+### Problem
+
 LGA filtering initially took several minutes to respond.
 
-**Solution:**  
+### Solution
+
 The VBA filtering process was optimized by reducing unnecessary refresh operations and controlling PivotTable updates.
 
-**Result:**  
-⚡ LGA filtering became significantly faster.
+### Result
+
+⚡ LGA filtering became significantly faster and more responsive.
 
 ---
 
 ## 🔴 Challenge 2: Dashboard Redirection
 
-**Problem:**  
-Changing filters on certain pages redirected users to the Executive Overview.
+### Problem
 
-**Solution:**  
+Changing filters on certain dashboard pages redirected users to the Executive Overview.
+
+### Solution
+
 The VBA macro was updated to preserve the user's original worksheet before updating winner images and restore the sheet afterward.
 
-**Result:**  
+### Result
+
 Users remain on their current dashboard page while filtering.
 
 ---
 
 ## 🔴 Challenge 3: Default Winner Results
 
-**Problem:**  
+### Problem
+
 Winner Cards displayed default election results when required filters had not been selected.
 
-**Solution:**  
+### Solution
+
 Conditional formulas were implemented to ensure cards remain blank until valid filter conditions are met.
+
+### Result
+
+Winner information now responds correctly to the required filter selections.
 
 ---
 
 ## 🔴 Challenge 4: State vs National Turnout Evaluating Too Early
 
-**Problem:**  
-The visualization responded when only a State was selected.
+### Problem
 
-**Solution:**  
+The State vs National Turnout visualization responded when only a State was selected.
+
+### Solution
+
 Additional conditional logic was added so the analysis only evaluates after the required Election Year and Election Type selections are made.
+
+### Result
+
+The analysis now displays only when the appropriate filter conditions are met.
 
 ---
 
 ## 🔴 Challenge 5: PivotTable Overwrite Warning
 
-**Problem:**  
+### Problem
+
 Certain filter selections triggered a PivotTable overwrite warning.
 
-**Solution:**  
+### Solution
+
 The PivotTable layout and refresh behavior were corrected.
+
+### Result
+
+The warning was eliminated and dashboard interaction continued normally.
 
 ---
 
@@ -378,23 +452,23 @@ The PivotTable layout and refresh behavior were corrected.
 
 The dashboard was designed around the following principles:
 
-### ✅ User-Friendly Navigation
+## ✅ User-Friendly Navigation
 
-Users can move easily between dashboard pages.
+Users can move easily between dashboard pages using interactive navigation controls.
 
-### ✅ Consistent Design
+## ✅ Consistent Design
 
-A consistent visual identity was maintained throughout the dashboard.
+A consistent visual identity and dashboard layout were maintained throughout the project.
 
-### ✅ Interactive Analysis
+## ✅ Interactive Analysis
 
-Users can dynamically explore election data using filters.
+Users can dynamically explore election data using filters and interactive dashboard elements.
 
-### ✅ Executive Reporting
+## ✅ Executive Reporting
 
-The Executive Overview provides important information at a glance.
+The Executive Overview provides important election insights and KPIs at a glance.
 
-### ✅ Minimal Scrolling
+## ✅ Minimal Scrolling
 
 The dashboard was designed as a polished analytical interface rather than a long scrolling report.
 
@@ -441,29 +515,30 @@ The dashboard was designed as a polished analytical interface rather than a long
 
 # 📁 Project Structure
 
-
+```text
 Nigeria-Election-Performance-Intelligence-Dashboard/
 │
-├── 📁 Dashboard
+├── 📁 Dashboard/
 │   └── Nigeria Election Performance Intelligence Dashboard.xlsm
 │
-├── 📁 Dataset
+├── 📁 Dataset/
 │   └── Nigeria Election Dataset.xlsx
 │
-├── 📁 Documentation
+├── 📁 Documentation/
 │   └── Nigeria Election Performance Intelligence Dashboard Project Report.pdf
 │
-├── 📁 Screenshots
+├── 📁 Screenshots/
 │   ├── Cover Page.png
 │   ├── Executive Overview.png
 │   ├── Election Analysis.png
 │   ├── State & LGA Analysis.png
 │   ├── Candidate Analysis.png
 │   ├── Party Analysis.png
+│   ├── Data Dictionary.png
 │   └── About Project.png
 │
 └── README.md
-
+```
 
 # 🚀 How to Use the Dashboard
 
