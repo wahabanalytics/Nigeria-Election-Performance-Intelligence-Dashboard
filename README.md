@@ -582,34 +582,19 @@ Potential future improvements for this project include:
 
 ---
 
-# ⚠️ Dataset Disclaimer
-
-This project uses a **synthetic dataset created strictly for learning and portfolio purposes**.
-
-The election results, candidates, winners, political parties, and other information displayed in the dashboard should **not be interpreted as official Nigerian election records**.
-
-This project was developed to demonstrate practical skills in:
-
-> **Data Analysis | Dashboard Development | Data Visualization | Excel Automation | VBA | Interactive Reporting**
-
----
-
 # 👨‍💻 Author
 
-## **Wahab Sodiq**
+## Wahab Sodiq
 
-### **Aspiring Data Analyst | Excel & Dashboard Development**
+**Data Analyst | Excel Dashboard Developer | Power BI Learner**
 
----
+### 🛠️ Core Skills
 
-## 🛠️ Skills Applied
-
-- 📊 **Microsoft Excel**
-- 📈 **Data Analysis**
-- 📉 **Data Visualization**
-- ⚙️ **VBA Automation**
-- 🎨 **Dashboard Development**
-
+- 📊 Microsoft Excel
+- 📈 Data Analysis
+- 📉 Data Visualization
+- ⚙️ VBA Automation
+- 🎨 Dashboard Development
 ---
 
 ⭐ **If you found this project interesting, feel free to explore the repository and check out the dashboard!**
