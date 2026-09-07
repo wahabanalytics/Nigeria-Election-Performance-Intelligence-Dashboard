@@ -18,7 +18,8 @@ Below is a preview of the Nigeria Election Performance Intelligence Dashboard.
 
 <!-- Add your best Executive Overview screenshot here -->
 
-<img width="1418" height="697" alt="image" src="https://github.com/user-attachments/assets/8c4d6405-4840-42e4-bf9a-5dfbd178493f" />
+<img width="1600" height="798" alt="image" src="https://github.com/user-attachments/assets/df248466-28cc-4941-9dc2-fa14a02fc987" />
+
 
 
 ---
