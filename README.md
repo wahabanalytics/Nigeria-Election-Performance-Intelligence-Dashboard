@@ -147,7 +147,8 @@ The dataset includes information such as:
 
 The Cover Page serves as the entry point into the dashboard and provides navigation to the analytical dashboard pages.
 
-<img width="1418" height="697" alt="image" src="https://github.com/user-attachments/assets/daa52741-646c-4a38-a58e-f415eee12602" />
+<img width="1600" height="614" alt="image" src="https://github.com/user-attachments/assets/5dbd2e4e-b301-49ef-b1e9-cbb198c6b8e6" />
+
 
 
 ---
@@ -173,7 +174,8 @@ The Executive Overview provides a high-level summary of election performance and
 - Dynamic Presidential Winner Card
 - Interactive filtering
 
-<img width="1600" height="614" alt="image" src="https://github.com/user-attachments/assets/5bbefdf8-fe24-49c7-9450-c1f687ed97df" />
+<img width="1418" height="697" alt="image" src="https://github.com/user-attachments/assets/7751740b-1a46-48b7-bbb8-34392a8bec6e" />
+
 
 
 ---
