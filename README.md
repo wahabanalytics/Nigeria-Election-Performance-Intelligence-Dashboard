@@ -192,7 +192,8 @@ Users can analyze:
 - Election Performance Trends
 - Comparative Election Metrics
 
-<img width="1410" height="697" alt="image" src="https://github.com/user-attachments/assets/63d28c66-fac8-456a-adcc-f51317dfec3e" />
+<img width="1410" height="697" alt="image" src="https://github.com/user-attachments/assets/3c268b7d-37f4-41fd-889a-75ebed824866" />
+
 
 
 ---
@@ -209,7 +210,8 @@ The State & LGA Analysis page provides geographical analysis of election perform
 - Dynamic Winner Analysis
 - Dependent State → LGA filtering
 
-<img width="1488" height="692" alt="image" src="https://github.com/user-attachments/assets/7117a390-54b3-4aa3-97e3-4864105df328" />
+<img width="1424" height="696" alt="image" src="https://github.com/user-attachments/assets/8020995c-d2e6-4417-a5cb-bd1f5f3a1f90" />
+
 
 
 ---
@@ -225,7 +227,8 @@ Users can analyze:
 - Candidate Rankings
 - Comparative Candidate Performance
 
-<img width="1424" height="696" alt="image" src="https://github.com/user-attachments/assets/c4b59e18-afc1-4ec0-a4bf-4e3726844a97" />
+<img width="1488" height="692" alt="image" src="https://github.com/user-attachments/assets/679c8428-ff12-48c8-a058-df63616c547d" />
+
 
 
 ---
@@ -241,7 +244,8 @@ Users can analyze:
 - Party Rankings
 - Winning Party Performance
 
-<img width="1451" height="689" alt="image" src="https://github.com/user-attachments/assets/0c50800a-69f1-4719-9f6e-06178d8a5fcb" />
+<img width="1451" height="689" alt="image" src="https://github.com/user-attachments/assets/0a7c27b6-e849-44a9-8b17-81e326d25de4" />
+
 
 
 ---
@@ -250,7 +254,8 @@ Users can analyze:
 
 The Data Dictionary provides explanations and definitions for important dataset fields and election metrics used throughout the dashboard.
 
-<img width="1600" height="623" alt="image" src="https://github.com/user-attachments/assets/bf325007-1097-4f34-bc53-2a8bf9806c7a" />
+<img width="1600" height="668" alt="image" src="https://github.com/user-attachments/assets/3ea6b2bd-d750-4043-8ab6-5e813e99faee" />
+
 
 
 ---
@@ -265,7 +270,8 @@ The About Project page provides information about:
 - Navigation Instructions
 - Project Background
 
-<img width="1600" height="668" alt="image" src="https://github.com/user-attachments/assets/02d63330-3c3b-4f34-8bad-df3807aa6fb5" />
+<img width="1600" height="623" alt="image" src="https://github.com/user-attachments/assets/0f5f01ad-d0d9-49c1-9459-cc8839e003e5" />
+
 
 
 ---
