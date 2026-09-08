@@ -566,9 +566,9 @@ This project is licensed under the [MIT License](LICENSE) — free to use, modif
 ## Wahab Sodiq
 **Data Analyst | Excel Dashboard Developer | Power BI Learner**
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/sodiqwahab/]
-- 📧 Email: [wabmixanalysis@gmail.com]
-- 🐙 GitHub: [https://github.com/wahabanalytics]
+- 🔗 LinkedIn: https://www.linkedin.com/in/sodiqwahab/
+- 📧 Email: wabmixanalysis@gmail.com
+- 🐙 GitHub: https://github.com/wahabanalytics
 
 ### 🛠️ Core Skills
 - 📊 Microsoft Excel
