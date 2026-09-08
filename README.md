@@ -8,6 +8,7 @@ The dashboard transforms election data into meaningful insights, allowing users 
 
 The project was developed using **Microsoft Excel and VBA**, combining advanced Excel analytics with automation to create a fully interactive multi-page dashboard.
 
+
 > ⚠️ **Disclaimer:** The dataset used in this project is synthetic and was created strictly for learning and portfolio purposes. Any candidates, winners, parties, or election results displayed should not be interpreted as official historical Nigerian election records.
 
 ---
@@ -219,14 +220,14 @@ The State & LGA Analysis page provides geographical analysis of election perform
 
 ## 👤 Candidate Analysis
 
-The Candidate Analysis page provides insights into candidate performance across election categories.
+The Candidate Analysis page provides insights into individual candidate performance across election categories, going beyond simple vote counts to compare performance side-by-side.
 
-Users can analyze:
-
-- Candidate Votes
-- Candidate Vote Share
-- Candidate Rankings
-- Comparative Candidate Performance
+### Key Features
+- **Candidate Performance Matrix** — a ranked table with in-cell bar formatting showing Total Votes, Contests Won, Average Vote Share %, and Average Winning Margin % for every candidate at a glance
+- **Winning Margin Analysis** — a column chart comparing each candidate's Vote Share % against their Winning Margin %
+- **Top Candidates by Vote** ranking
+- **Election Outcome Summary** — contests bucketed into Landslide / Comfortable / Competitive / Too Close by winning margin
+- Dynamic, filter-driven Candidate Performance Leader card
 
 <img width="1488" height="692" alt="image" src="https://github.com/user-attachments/assets/679c8428-ff12-48c8-a058-df63616c547d" />
 
@@ -236,14 +237,13 @@ Users can analyze:
 
 ## 🚩 Party Analysis
 
-The Party Analysis page provides insights into political party performance.
+The Party Analysis page evaluates political party strength and consistency, using visual formats not used elsewhere in the dashboard to give the page its own analytical identity.
 
-Users can analyze:
-
-- Party Performance
-- Party Vote Share
-- Party Rankings
-- Winning Party Performance
+### Key Features
+- **Party Winning Margin Profile** — a 100%-stacked bar chart breaking down each party's contests into Landslide / Comfortable / Competitive / Too Close, revealing how consistently dominant (or competitive) each party's wins really are
+- **Party Vote Share Composition** — a doughnut chart showing each party's overall share of the vote
+- **Top Parties by Contests Won** ranking
+- Dynamic Party Performance Leader card
 
 <img width="1451" height="689" alt="image" src="https://github.com/user-attachments/assets/0a7c27b6-e849-44a9-8b17-81e326d25de4" />
 
@@ -296,32 +296,6 @@ This creates a cleaner dashboard interface while maintaining powerful interactiv
 
 ---
 
-## 🔗 Dependent State → LGA Filtering
-
-One of the key interactive features implemented in this project is dependent filtering.
-
-When a user selects a **State**, the LGA filter automatically updates to display only LGAs belonging to the selected State.
-
-This improves usability and prevents invalid geographical selections.
-
----
-
-## 🖼️ Dynamic Winner Cards
-
-The dashboard includes dynamic Winner Cards that display relevant election information based on selected filters.
-
-The cards provide information such as:
-
-- Winner
-- Winning Party
-- Winning Votes
-- Vote Share
-- Winning Margin
-- Dynamic Winner Images
-
-VBA automation was used to dynamically update winner images while preserving the user's current dashboard page.
-
----
 
 ## 🧠 Dynamic Executive Insights
 
@@ -581,15 +555,22 @@ Potential future improvements for this project include:
 - 🤖 Adding predictive analytics and advanced analytical capabilities
 
 ---
+## 📄 License
 
-# 👨‍💻 Author
+This project is licensed under the [MIT License](LICENSE) — free to use, modify, and share with attribution.
+
+---
+
+## 👨‍💻 Author
 
 ## Wahab Sodiq
-
 **Data Analyst | Excel Dashboard Developer | Power BI Learner**
 
-### 🛠️ Core Skills
+- 🔗 LinkedIn: [your LinkedIn URL here]
+- 📧 Email: [your email here]
+- 🐙 GitHub: [your GitHub profile URL]
 
+### 🛠️ Core Skills
 - 📊 Microsoft Excel
 - 📈 Data Analysis
 - 📉 Data Visualization
